@@ -1,1 +1,7 @@
 fastapi~=0.109.2
+uvicorn~=0.27.1
+jupyter~=1.0.0
+dateparser~=1.2.0
+requests~=2.31.0
+beautifulsoup4~=4.12.3
+etaprogress~=1.1.1
